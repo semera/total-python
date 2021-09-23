@@ -1,0 +1,8 @@
+EXPORTS
+	FsInit
+	FsFindFirst
+	FsFindNext
+	FsFindClose
+	FsGetFile
+	FsSetDefaultParams
+	

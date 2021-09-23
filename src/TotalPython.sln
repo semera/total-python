@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TotalPython", "TotalPython.vcxproj", "{20897ED3-6FC2-41D4-9094-FFE4E79AB14C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{B1BB7445-F97C-44AE-9323-3203F214BE44}"
+	ProjectSection(SolutionItems) = preProject
+		..\examples\definition.py = ..\examples\definition.py
+		..\examples\hello_world.py = ..\examples\hello_world.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20897ED3-6FC2-41D4-9094-FFE4E79AB14C}.Debug|x64.ActiveCfg = Debug|x64
+		{20897ED3-6FC2-41D4-9094-FFE4E79AB14C}.Debug|x64.Build.0 = Debug|x64
+		{20897ED3-6FC2-41D4-9094-FFE4E79AB14C}.Release|x64.ActiveCfg = Release|x64
+		{20897ED3-6FC2-41D4-9094-FFE4E79AB14C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6632112-A570-4F97-86E3-A6E3FEDD87FA}
+	EndGlobalSection
+EndGlobal
